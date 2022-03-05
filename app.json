@@ -24,7 +24,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@ALBINPRAVEEN1/getStringName",
+        "description": "Pyrogram session string, get it from https://replit.com/ALBINPRAVEEN1/getStringName",
         "required": true
       },
       "SUDOERS": {
